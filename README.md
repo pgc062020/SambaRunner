@@ -8,3 +8,8 @@ It allows to check the status of smbd and nmbd.
 Qt 5.14 (or higher)
 ```
 Download Qt here: https://www.qt.io/download
+<br>
+#### Screenshots:
+![alt text2](https://github.com/pgc062020/SambaRunner/blob/main/Screenshots/SambaRunner_001.png)
+
+![alt text2](https://github.com/pgc062020/SambaRunner/blob/main/Screenshots/SambaRunner_002.png)
