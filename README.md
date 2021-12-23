@@ -1,6 +1,7 @@
 # SambaRunner
 A simple GUI to run or stop smbd oder nmbd. 
 It allows to check the status of smbd and nmbd.
+<br> 
 
 #### Requierment: <br />
 ```
