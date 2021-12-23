@@ -4,6 +4,6 @@ It allows to check the status of smbd and nmbd.
 
 #### Requierment: <br />
 ```
-Qt 5.14 (or a higher version | recommend: Install Qt with the Online Installer)
+Qt 5.14 (or higher)
 ```
 Download Qt here: https://www.qt.io/download
