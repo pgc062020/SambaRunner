@@ -130,7 +130,7 @@ void MainWindow::serviceHandler(int k)
     QString executable("service");
     QStringList _serviceList;
     _serviceList << "smbd" << "nmbd";
-    QString startorstop="start";
+    QString startorstop;
     QStringList arguments;
 
     QProcess _serviceHandler;
