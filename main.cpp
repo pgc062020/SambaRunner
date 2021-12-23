@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
     w.setFixedSize(560,306);
     w.setGeometry(QStyle::alignedRect(Qt::LeftToRight,
          Qt::AlignCenter, w.size(), qApp->desktop()->availableGeometry()));
+    w.setWindowTitle(QApplication::applicationName());
     w.show();
     return a.exec();
 }

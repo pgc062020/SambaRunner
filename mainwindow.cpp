@@ -80,7 +80,6 @@ void MainWindow::statusChecker()
     {
         arguments << "is-active" << _serviceList.at(i);
         _runCmd.start(executable, arguments);
-        _runCmd.waitForReadyRead();
         _runCmd.waitForFinished();
         _out = _runCmd.readAllStandardOutput();
         _out = _out.trimmed();
