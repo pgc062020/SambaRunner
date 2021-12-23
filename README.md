@@ -11,4 +11,4 @@ Download Qt here: https://www.qt.io/download
 <br><br>
 #### Screenshots:
 
-![alt text2](https://github.com/pgc062020/SambaRunner/blob/main/Screenshots/SambaRunner_002.png)
+![alt text2](https://github.com/pgc062020/SambaRunner/blob/main/Screenshots/2021-12-23_22-39.png)
